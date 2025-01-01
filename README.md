@@ -14,7 +14,7 @@ Key Features:
 ---
 
 ## 🚀 Live Demo  
-[Access Study Notion Web App](https://your-live-demo-link.com)  
+//[Access Study Notion Web App](https://your-live-demo-link.com)  
 
 ---
 
@@ -52,9 +52,3 @@ Key Features:
 
 ---
 
-## 🛠️ Installation Guide  
-
-### **Step 1: Clone the Repository**  
-```bash
-git clone https://github.com/your-username/study-notion.git
-cd study-notion
