@@ -13,8 +13,6 @@ Key Features:
 
 ---
 
-## 🚀 Live Demo  
-//[Access Study Notion Web App](https://your-live-demo-link.com)  
 
 ---
 
